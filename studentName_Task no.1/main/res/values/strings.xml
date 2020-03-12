@@ -1,0 +1,12 @@
+<resources>
+    <string name="Title">Calculator Application</string>
+    <string name="Addition">Addition</string>
+    <string name="Substraction">Substraction</string>
+    <string name="Multiplication">Multiplication</string>
+    <string name="Division">Divion</string>
+    <string name="NumOne">Enter the first number:</string>
+    <string name="NumTwo">Enter the second number:</string>
+    <string name="Calculate">show result</string>
+    <string name='Placeholder'>enter a number</string>
+    <string name="Message"></string>
+</resources>
